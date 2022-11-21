@@ -1,0 +1,47 @@
+header {
+  background-color: #DB0606;
+  text-decoration: underline;
+  text-align: center;
+}
+
+a {
+  color: white;
+}
+
+img {
+  width: 50%;
+  max-height: fit-content;
+  background-color: #282c37;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+section {
+  background-color: #282c37
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
+
+p {
+  color: white;
+  max-width: 80%;
+  max-height: auto;
+  display: flexbox;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
+
+body {
+  background-color: #282c37;
+}
+
+hr.solid {
+  border-top: 3px solid white;
+}
